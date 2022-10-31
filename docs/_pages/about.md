@@ -1,7 +1,8 @@
 ---
-layout: default
-title: About
 permalink: /about/
+title: "About"
+layout: pages
+toc: true
 ---
 
 This website is all about Linwei.
@@ -11,4 +12,3 @@ Linwei is passionate about transforming technology and ideas into real applicati
 Outside of the work, Linwei is an outdoor adventurer, he like to be in the wild and stay close to nature. Ask him about the wild trips, he will be more that glad to share you all the stories.
 
 Please feel free to reach Linwei from his [Linkedin](https://www.linkedin.com/in/zhanglinwei/).
-
